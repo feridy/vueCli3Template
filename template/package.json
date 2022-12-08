@@ -12,7 +12,7 @@
     "core-js": "^2.6.5",
     "epic-spinners": "^1.1.0",
     "leaflet": "^1.5.1",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vue-wechat-title": "^2.0.5",
